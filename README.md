@@ -55,4 +55,4 @@ El archivo pedirá la ubicación del directorio hashes (que contiene los txt con
 
 Posteriormente deberá ingresar el archivo hashes.txt que contiene su lista y el al final del documento vendra el hash probatorio.
 
-El código comparará todos los hashes contra el directorio de palabras hashes creado previamente y verificará por medio del hash validatorio si la lista es correcta. Si es correcta, creará el archivo hash_comprobatorio.txt, este archivo contendra la lista original que el usuario genero. 
+El código comparará todos los hashes contra el directorio de palabras-hashes creado previamente y verificará por medio del hash validatorio si la lista es correcta. Si es correcta, creará el archivo hash_comprobatorio.txt, este archivo contendrá la lista original que el usuario generó. 
